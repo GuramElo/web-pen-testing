@@ -15,3 +15,7 @@
 php://filter/convert.base64-encode/resource= RES
 # default path to web folder
 /var/www/html/flag
+
+
+
+github tar command Bind shell (gtfobins)
