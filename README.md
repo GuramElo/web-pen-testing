@@ -2,7 +2,7 @@
 web-pen-testing
 # python3 jwt_tool.py -t URL -rc TOKEN -C -d WORDLIST
 
-# 
+# xml usage template
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE [name] [
 <!ELEMENT [name] ANY>
